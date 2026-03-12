@@ -1,0 +1,12 @@
+{
+  "movies": [
+    { "id": 1, "title": "The Mask", "price": 100, "currency": "kr" },
+    { "id": 2, "title": "Joker", "price": 120, "currency": "kr" },
+    { "id": 3, "title": "Toy Story 4", "price": 80, "currency": "kr" },
+    { "id": 4, "title": "Jurassic Park", "price": 90, "currency": "kr" },
+    { "id": 5, "title": "Avatar", "price": 110, "currency": "kr" },
+    { "id": 6, "title": "F9", "price": 150, "currency": "kr"},
+    { "id": 7, "title": "Titanic", "price": 110, "currency": "kr"},
+    { "id": 8, "title": "Matrix", "price": 180, "currency": "kr"}
+  ]
+}
